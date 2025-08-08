@@ -1,0 +1,18 @@
+[
+  {
+    "number": 1,
+    "title": "本网站托管在Cloudflare Pages",
+    "introduce": "感谢Cloudflare大哥刷的嘉年华",
+    "url": "",
+    "color": "",
+    "image": "image/1.png"
+  },
+  {
+    "number": 2,
+    "title": "蛋仔农场升级时间计算器",
+    "introduce": "计算升级到下一级需要的时间",
+    "url": "https://farmcalc.pages.dev/",
+    "color": "",
+    "image": "image/2.png"
+  }
+]
