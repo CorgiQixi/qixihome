@@ -9,6 +9,14 @@
   },
   {
     "number": 2,
+    "title": "七喜的图库",
+    "introduce": "七喜御用相册:-)",
+    "url": "https://qiximg.pages.dev/",
+    "color": "",
+    "image": "image/3.png"
+  },
+  {
+    "number": 3,
     "title": "蛋仔农场升级时间计算器",
     "introduce": "计算升级到下一级需要的时间",
     "url": "https://farmcalc.pages.dev/",
